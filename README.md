@@ -1,0 +1,72 @@
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Dhruv+Kanojia+👋;Competitive+Programmer+%7C+Developer;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Student & passionate **programmer**
+- 💻 Love working with **C++, Java, and Web Development**
+- 🧠 Interested in **Data Structures, Algorithms & Problem Solving**
+- 🌱 Currently learning **Advanced DSA & Full-Stack Development**
+- ⚡ Fun fact: I enjoy solving coding challenges more than sleeping 😄
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Eating Contributions (Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile! Have a great day!**
