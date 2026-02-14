@@ -38,7 +38,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coDing-Knight99&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coDing-Knight99&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/dhruv-kanojia-8396a731a/)">
+  <a href="https://www.linkedin.com/in/dhruv-kanojia-8396a731a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:dhruvkanojiawork@gmail.com">
