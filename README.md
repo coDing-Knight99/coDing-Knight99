@@ -74,7 +74,7 @@
 
 ---
 
-## 🐍 Snake Eating Contributions (Animation)
+## 🐍 Snake Eating Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/coDing-Knight99/coDing-Knight99/output/snake.svg" />
 </p>
