@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=coDing-Knight99&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coDing-Knight99&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats-extended-sigma-five.vercel.app/api?username=coDing-Knight99&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats-extended-sigma-five.vercel.app/api/top-langs/?username=coDing-Knight99&layout=compact&theme=tokyonight" />
 </p>
 
 
