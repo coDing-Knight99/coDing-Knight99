@@ -42,7 +42,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=coDing-Knight99&theme=tokyonight&hide_border=false" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=coDing-Knight99&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ---
